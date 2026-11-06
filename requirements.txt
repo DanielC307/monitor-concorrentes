@@ -1,0 +1,11 @@
+# Base (preparação do ambiente)
+psycopg[binary]>=3.2
+python-dotenv>=1.0
+pydantic>=2.7
+pytest>=8.0
+
+# Fase 1 (coleta) e Fase 2 (classificação): instalar quando a fase começar
+# requests
+# apify-client
+# google-api-python-client
+# anthropic
